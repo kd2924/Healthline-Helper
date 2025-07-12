@@ -1,5 +1,5 @@
 // // // const google = "https://maps.googleapis.com/maps/api/js"
-// const geolocator = "https://www.googleapis.com/geolocation/v1/geolocate?key=AIzaSyBGOiPZJhzYO3lxGGPOQsq3OijyDInJC5E";
+
 
 // // this is for geolocator display (test)
 // let helpBtn = document.getElementById("help_button");
